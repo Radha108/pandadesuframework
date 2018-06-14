@@ -1,0 +1,51 @@
+body{
+  background-color: #FB8D67;
+  color: aliceblue;
+}
+.panda1{
+background-image: url(../css/img/uno.jpg);
+padding: 20em;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+filter: grayscale(100%);
+margin-top: 2%;
+margin-bottom: 2%;
+
+
+}
+.texto{
+  background-color: #AEE089;
+
+}
+.panda2{
+  background-image: url(../css/img/dos.jpg);
+  padding: 20em;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.pictures{
+  padding: 10em;
+  text-align: center;
+  background-color: #AEE089;
+  background-position: center;
+  
+}
+.panda3{
+  background-image: url(../css/img/tres.jpg);
+  padding: 20em;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+
+
+
